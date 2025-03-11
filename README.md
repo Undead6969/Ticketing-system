@@ -1,5 +1,5 @@
 
-# Bootminds Ticketing System
+# [Bootminds Ticketing System](https://ticketing-system-main-756g3cxss-hitesh-s-projects-db1983d7.vercel.app/)
 
 A full-stack support ticketing system built with React, TypeScript, and Supabase. This application allows users to submit support tickets, view their ticket status, and chat with support staff. Administrators can manage tickets, respond to user inquiries, and track support metrics.
 
